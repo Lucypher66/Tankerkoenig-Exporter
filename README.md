@@ -40,6 +40,11 @@ cp config.example.yml config.yml
 # Edit config.yml with your settings
 ```
 
+## You can turn any page on or off. The index page is empty. 
+
+## Caution!
+The config page displays your current config in the browser. This is for diagnostic purposes only. It is exposing your API Key in the browser. 
+
 ## Systemd Service File
 ### Create a user for the gas price exporter to run as (e.g. gas-exporter). Alternatively you can use a present user.
 
