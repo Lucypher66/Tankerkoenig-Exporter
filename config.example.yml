@@ -1,0 +1,9 @@
+config:
+  api_key: "11111111-2222-3333-4444-555555555555"
+  station_ids: 
+    - "11111111-2222-3333-4444-555555555555" # Gas Station 1
+    - "11111111-2222-3333-4444-555555555555" # Gas Station 2
+    - "11111111-2222-3333-4444-555555555555" # Gas Station 3
+  enable_config_page: true
+  enable_index_page: true
+  enable_metrics_page: true
