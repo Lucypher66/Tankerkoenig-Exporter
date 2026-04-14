@@ -24,6 +24,3 @@ def request_data(request):
 def build_request(station_id,api_key):
     request = f'https://creativecommons.tankerkoenig.de/json/detail.php?id={station_id}&apikey={api_key}'
     return request
-
-def convert_to_prometheus_metrics():
-    pass
