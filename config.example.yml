@@ -7,3 +7,4 @@ config:
   enable_config_page: false
   enable_index_page: true
   enable_metrics_page: true
+  enable_webconfig: true
